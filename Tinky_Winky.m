@@ -63,8 +63,10 @@ pwd
 cd 'C:\Users\ruben\Desktop'
 
 cd 'E:\Octave'
+
 pwd
-load autodata.txt
+
+whos
 
 
 
