@@ -54,3 +54,18 @@ size(sz = size(A))
 
 size(A,1)
 size(A,2)
+
+v = [1 2 3 4];
+l = length(v)
+
+pwd
+
+cd 'C:\Users\ruben\Desktop'
+
+cd 'E:\Octave'
+pwd
+load autodata.txt
+
+
+
+
