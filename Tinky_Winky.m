@@ -1,3 +1,4 @@
+
 # Fly me to the moon...
 
 5 + 6
@@ -68,4 +69,15 @@ pwd
 
 whos
 
-error: load: unable to determine file format of 'concrete.csv'
+error: load: unable to determine file format of 'concrete.csv' # I don't know how to fix this error. Will take some time.
+
+
+A = [1 2; 3 4; 5 6]
+B = [11 12; 13 14; 15 16]
+C = [A B]
+D = [A; B]
+A(:)
+
+size (C)
+size (D)
+
