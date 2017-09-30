@@ -81,3 +81,27 @@ A(:)
 size (C)
 size (D)
 
+
+X = A.*B
+Y = A.^2
+ 
+v = [1; 2; 3]
+1/.v
+1./A
+
+log(v)
+exp(v)
+abs(v)
+-v
+v + ones(length(v),1)
+ones(3,1)
+v + ones(3,1)
+v+1
+A'
+(A')'
+
+a = [1 15 2 0.5]
+val = max(a)
+max(A)
+find(a<3)
+A = magic(3)
